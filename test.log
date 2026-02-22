@@ -1,0 +1,251 @@
+=== RUN   TestClientBasicConnect
+--- PASS: TestClientBasicConnect (0.12s)
+=== RUN   TestClientShortNewline
+--- PASS: TestClientShortNewline (0.15s)
+=== RUN   TestClientShortNoNewline
+--- PASS: TestClientShortNoNewline (0.15s)
+=== RUN   TestClientShortPrintf
+--- PASS: TestClientShortPrintf (0.15s)
+=== RUN   TestClientMultiline
+--- PASS: TestClientMultiline (0.15s)
+=== RUN   TestClientManyShort
+--- PASS: TestClientManyShort (0.45s)
+=== RUN   TestClientMobyDick
+--- PASS: TestClientMobyDick (0.15s)
+=== RUN   TestClientShortRandomPrintable
+=== RUN   TestClientShortRandomPrintable/Message&1
+=== RUN   TestClientShortRandomPrintable/Message&2
+=== RUN   TestClientShortRandomPrintable/Message&3
+=== RUN   TestClientShortRandomPrintable/Message&4
+=== RUN   TestClientShortRandomPrintable/Message&5
+=== RUN   TestClientShortRandomPrintable/Message&6
+=== RUN   TestClientShortRandomPrintable/Message&7
+=== RUN   TestClientShortRandomPrintable/Message&8
+=== RUN   TestClientShortRandomPrintable/Message&9
+=== RUN   TestClientShortRandomPrintable/Message&10
+--- PASS: TestClientShortRandomPrintable (1.45s)
+    --- PASS: TestClientShortRandomPrintable/Message&1 (0.14s)
+    --- PASS: TestClientShortRandomPrintable/Message&2 (0.14s)
+    --- PASS: TestClientShortRandomPrintable/Message&3 (0.15s)
+    --- PASS: TestClientShortRandomPrintable/Message&4 (0.15s)
+    --- PASS: TestClientShortRandomPrintable/Message&5 (0.15s)
+    --- PASS: TestClientShortRandomPrintable/Message&6 (0.15s)
+    --- PASS: TestClientShortRandomPrintable/Message&7 (0.15s)
+    --- PASS: TestClientShortRandomPrintable/Message&8 (0.15s)
+    --- PASS: TestClientShortRandomPrintable/Message&9 (0.14s)
+    --- PASS: TestClientShortRandomPrintable/Message&10 (0.15s)
+=== RUN   TestClientLongRandomPrintable
+=== RUN   TestClientLongRandomPrintable/Message&1
+=== RUN   TestClientLongRandomPrintable/Message&2
+=== RUN   TestClientLongRandomPrintable/Message&3
+=== RUN   TestClientLongRandomPrintable/Message&4
+=== RUN   TestClientLongRandomPrintable/Message&5
+=== RUN   TestClientLongRandomPrintable/Message&6
+=== RUN   TestClientLongRandomPrintable/Message&7
+=== RUN   TestClientLongRandomPrintable/Message&8
+=== RUN   TestClientLongRandomPrintable/Message&9
+=== RUN   TestClientLongRandomPrintable/Message&10
+--- PASS: TestClientLongRandomPrintable (1.47s)
+    --- PASS: TestClientLongRandomPrintable/Message&1 (0.14s)
+    --- PASS: TestClientLongRandomPrintable/Message&2 (0.15s)
+    --- PASS: TestClientLongRandomPrintable/Message&3 (0.15s)
+    --- PASS: TestClientLongRandomPrintable/Message&4 (0.14s)
+    --- PASS: TestClientLongRandomPrintable/Message&5 (0.14s)
+    --- PASS: TestClientLongRandomPrintable/Message&6 (0.15s)
+    --- PASS: TestClientLongRandomPrintable/Message&7 (0.15s)
+    --- PASS: TestClientLongRandomPrintable/Message&8 (0.15s)
+    --- PASS: TestClientLongRandomPrintable/Message&9 (0.14s)
+    --- PASS: TestClientLongRandomPrintable/Message&10 (0.15s)
+=== RUN   TestClientBinary
+--- PASS: TestClientBinary (0.15s)
+=== RUN   TestClientShortRandomBinary
+=== RUN   TestClientShortRandomBinary/Message&1
+=== RUN   TestClientShortRandomBinary/Message&2
+=== RUN   TestClientShortRandomBinary/Message&3
+=== RUN   TestClientShortRandomBinary/Message&4
+=== RUN   TestClientShortRandomBinary/Message&5
+=== RUN   TestClientShortRandomBinary/Message&6
+=== RUN   TestClientShortRandomBinary/Message&7
+=== RUN   TestClientShortRandomBinary/Message&8
+=== RUN   TestClientShortRandomBinary/Message&9
+=== RUN   TestClientShortRandomBinary/Message&10
+--- PASS: TestClientShortRandomBinary (1.48s)
+    --- PASS: TestClientShortRandomBinary/Message&1 (0.15s)
+    --- PASS: TestClientShortRandomBinary/Message&2 (0.15s)
+    --- PASS: TestClientShortRandomBinary/Message&3 (0.15s)
+    --- PASS: TestClientShortRandomBinary/Message&4 (0.15s)
+    --- PASS: TestClientShortRandomBinary/Message&5 (0.15s)
+    --- PASS: TestClientShortRandomBinary/Message&6 (0.15s)
+    --- PASS: TestClientShortRandomBinary/Message&7 (0.14s)
+    --- PASS: TestClientShortRandomBinary/Message&8 (0.15s)
+    --- PASS: TestClientShortRandomBinary/Message&9 (0.17s)
+    --- PASS: TestClientShortRandomBinary/Message&10 (0.14s)
+=== RUN   TestClientLongRandomBinary
+=== RUN   TestClientLongRandomBinary/Message&1
+=== RUN   TestClientLongRandomBinary/Message&2
+=== RUN   TestClientLongRandomBinary/Message&3
+=== RUN   TestClientLongRandomBinary/Message&4
+=== RUN   TestClientLongRandomBinary/Message&5
+=== RUN   TestClientLongRandomBinary/Message&6
+=== RUN   TestClientLongRandomBinary/Message&7
+=== RUN   TestClientLongRandomBinary/Message&8
+=== RUN   TestClientLongRandomBinary/Message&9
+=== RUN   TestClientLongRandomBinary/Message&10
+--- PASS: TestClientLongRandomBinary (1.46s)
+    --- PASS: TestClientLongRandomBinary/Message&1 (0.14s)
+    --- PASS: TestClientLongRandomBinary/Message&2 (0.15s)
+    --- PASS: TestClientLongRandomBinary/Message&3 (0.15s)
+    --- PASS: TestClientLongRandomBinary/Message&4 (0.15s)
+    --- PASS: TestClientLongRandomBinary/Message&5 (0.14s)
+    --- PASS: TestClientLongRandomBinary/Message&6 (0.14s)
+    --- PASS: TestClientLongRandomBinary/Message&7 (0.14s)
+    --- PASS: TestClientLongRandomBinary/Message&8 (0.14s)
+    --- PASS: TestClientLongRandomBinary/Message&9 (0.15s)
+    --- PASS: TestClientLongRandomBinary/Message&10 (0.15s)
+=== RUN   TestServerBasicConnect
+--- PASS: TestServerBasicConnect (0.11s)
+=== RUN   TestServerPortConnect
+=== RUN   TestServerPortConnect/Port&10316
+2026/02/22 15:59:22 buferr:  read |0: file already closed
+2026/02/22 15:59:22 buferr:  read |0: file already closed
+=== RUN   TestServerPortConnect/Port&11316
+2026/02/22 15:59:23 buferr:  read |0: file already closed
+=== RUN   TestServerPortConnect/Port&12316
+2026/02/22 15:59:23 buferr:  read |0: file already closed
+=== RUN   TestServerPortConnect/Port&13316
+2026/02/22 15:59:23 buferr:  read |0: file already closed
+=== RUN   TestServerPortConnect/Port&14316
+2026/02/22 15:59:23 buferr:  read |0: file already closed
+=== RUN   TestServerPortConnect/Port&15316
+2026/02/22 15:59:23 buferr:  read |0: file already closed
+=== RUN   TestServerPortConnect/Port&16316
+2026/02/22 15:59:23 buferr:  read |0: file already closed
+=== RUN   TestServerPortConnect/Port&17316
+2026/02/22 15:59:23 buferr:  read |0: file already closed
+=== RUN   TestServerPortConnect/Port&18316
+2026/02/22 15:59:23 buferr:  read |0: file already closed
+=== RUN   TestServerPortConnect/Port&19316
+2026/02/22 15:59:23 buferr:  read |0: file already closed
+=== RUN   TestServerPortConnect/Port&20316
+2026/02/22 15:59:24 buferr:  read |0: file already closed
+--- PASS: TestServerPortConnect (1.16s)
+    --- PASS: TestServerPortConnect/Port&10316 (0.11s)
+    --- PASS: TestServerPortConnect/Port&11316 (0.10s)
+    --- PASS: TestServerPortConnect/Port&12316 (0.10s)
+    --- PASS: TestServerPortConnect/Port&13316 (0.10s)
+    --- PASS: TestServerPortConnect/Port&14316 (0.11s)
+    --- PASS: TestServerPortConnect/Port&15316 (0.11s)
+    --- PASS: TestServerPortConnect/Port&16316 (0.11s)
+    --- PASS: TestServerPortConnect/Port&17316 (0.11s)
+    --- PASS: TestServerPortConnect/Port&18316 (0.11s)
+    --- PASS: TestServerPortConnect/Port&19316 (0.11s)
+    --- PASS: TestServerPortConnect/Port&20316 (0.11s)
+=== RUN   TestServerSequentialConnect
+--- PASS: TestServerSequentialConnect (0.14s)
+=== RUN   TestServerConcurrentConnect
+--- PASS: TestServerConcurrentConnect (0.14s)
+=== RUN   TestServerShortNewline
+--- PASS: TestServerShortNewline (0.14s)
+=== RUN   TestServerShortNoNewline
+--- PASS: TestServerShortNoNewline (0.14s)
+=== RUN   TestServerShortPrintf
+--- PASS: TestServerShortPrintf (0.14s)
+=== RUN   TestServerMultiline
+--- PASS: TestServerMultiline (0.14s)
+=== RUN   TestServerManyShort
+--- PASS: TestServerManyShort (0.86s)
+=== RUN   TestServerMobyDick
+--- PASS: TestServerMobyDick (0.14s)
+=== RUN   TestServerShortRandomPrintable
+=== RUN   TestServerShortRandomPrintable/Message&1
+=== RUN   TestServerShortRandomPrintable/Message&2
+=== RUN   TestServerShortRandomPrintable/Message&3
+=== RUN   TestServerShortRandomPrintable/Message&4
+=== RUN   TestServerShortRandomPrintable/Message&5
+=== RUN   TestServerShortRandomPrintable/Message&6
+=== RUN   TestServerShortRandomPrintable/Message&7
+=== RUN   TestServerShortRandomPrintable/Message&8
+=== RUN   TestServerShortRandomPrintable/Message&9
+=== RUN   TestServerShortRandomPrintable/Message&10
+--- PASS: TestServerShortRandomPrintable (1.41s)
+    --- PASS: TestServerShortRandomPrintable/Message&1 (0.14s)
+    --- PASS: TestServerShortRandomPrintable/Message&2 (0.14s)
+    --- PASS: TestServerShortRandomPrintable/Message&3 (0.14s)
+    --- PASS: TestServerShortRandomPrintable/Message&4 (0.14s)
+    --- PASS: TestServerShortRandomPrintable/Message&5 (0.14s)
+    --- PASS: TestServerShortRandomPrintable/Message&6 (0.14s)
+    --- PASS: TestServerShortRandomPrintable/Message&7 (0.14s)
+    --- PASS: TestServerShortRandomPrintable/Message&8 (0.14s)
+    --- PASS: TestServerShortRandomPrintable/Message&9 (0.14s)
+    --- PASS: TestServerShortRandomPrintable/Message&10 (0.14s)
+=== RUN   TestServerLongRandomPrintable
+=== RUN   TestServerLongRandomPrintable/Message&1
+=== RUN   TestServerLongRandomPrintable/Message&2
+=== RUN   TestServerLongRandomPrintable/Message&3
+=== RUN   TestServerLongRandomPrintable/Message&4
+=== RUN   TestServerLongRandomPrintable/Message&5
+=== RUN   TestServerLongRandomPrintable/Message&6
+=== RUN   TestServerLongRandomPrintable/Message&7
+=== RUN   TestServerLongRandomPrintable/Message&8
+=== RUN   TestServerLongRandomPrintable/Message&9
+=== RUN   TestServerLongRandomPrintable/Message&10
+--- PASS: TestServerLongRandomPrintable (1.42s)
+    --- PASS: TestServerLongRandomPrintable/Message&1 (0.14s)
+    --- PASS: TestServerLongRandomPrintable/Message&2 (0.14s)
+    --- PASS: TestServerLongRandomPrintable/Message&3 (0.14s)
+    --- PASS: TestServerLongRandomPrintable/Message&4 (0.14s)
+    --- PASS: TestServerLongRandomPrintable/Message&5 (0.14s)
+    --- PASS: TestServerLongRandomPrintable/Message&6 (0.14s)
+    --- PASS: TestServerLongRandomPrintable/Message&7 (0.15s)
+    --- PASS: TestServerLongRandomPrintable/Message&8 (0.15s)
+    --- PASS: TestServerLongRandomPrintable/Message&9 (0.14s)
+    --- PASS: TestServerLongRandomPrintable/Message&10 (0.14s)
+=== RUN   TestServerBinary
+--- PASS: TestServerBinary (0.14s)
+=== RUN   TestServerShortRandomBinary
+=== RUN   TestServerShortRandomBinary/Message&1
+=== RUN   TestServerShortRandomBinary/Message&2
+=== RUN   TestServerShortRandomBinary/Message&3
+=== RUN   TestServerShortRandomBinary/Message&4
+=== RUN   TestServerShortRandomBinary/Message&5
+=== RUN   TestServerShortRandomBinary/Message&6
+=== RUN   TestServerShortRandomBinary/Message&7
+=== RUN   TestServerShortRandomBinary/Message&8
+=== RUN   TestServerShortRandomBinary/Message&9
+=== RUN   TestServerShortRandomBinary/Message&10
+--- PASS: TestServerShortRandomBinary (1.43s)
+    --- PASS: TestServerShortRandomBinary/Message&1 (0.14s)
+    --- PASS: TestServerShortRandomBinary/Message&2 (0.14s)
+    --- PASS: TestServerShortRandomBinary/Message&3 (0.14s)
+    --- PASS: TestServerShortRandomBinary/Message&4 (0.14s)
+    --- PASS: TestServerShortRandomBinary/Message&5 (0.14s)
+    --- PASS: TestServerShortRandomBinary/Message&6 (0.14s)
+    --- PASS: TestServerShortRandomBinary/Message&7 (0.14s)
+    --- PASS: TestServerShortRandomBinary/Message&8 (0.15s)
+    --- PASS: TestServerShortRandomBinary/Message&9 (0.14s)
+    --- PASS: TestServerShortRandomBinary/Message&10 (0.14s)
+=== RUN   TestServerLongRandomBinary
+I AM HEREEEEEE
+=== RUN   TestServerLongRandomBinary/Message&1
+=== RUN   TestServerLongRandomBinary/Message&2
+=== RUN   TestServerLongRandomBinary/Message&3
+=== RUN   TestServerLongRandomBinary/Message&4
+=== RUN   TestServerLongRandomBinary/Message&5
+=== RUN   TestServerLongRandomBinary/Message&6
+=== RUN   TestServerLongRandomBinary/Message&7
+=== RUN   TestServerLongRandomBinary/Message&8
+=== RUN   TestServerLongRandomBinary/Message&9
+=== RUN   TestServerLongRandomBinary/Message&10
+--- PASS: TestServerLongRandomBinary (1.44s)
+    --- PASS: TestServerLongRandomBinary/Message&1 (0.14s)
+    --- PASS: TestServerLongRandomBinary/Message&2 (0.14s)
+    --- PASS: TestServerLongRandomBinary/Message&3 (0.14s)
+    --- PASS: TestServerLongRandomBinary/Message&4 (0.14s)
+    --- PASS: TestServerLongRandomBinary/Message&5 (0.14s)
+    --- PASS: TestServerLongRandomBinary/Message&6 (0.14s)
+    --- PASS: TestServerLongRandomBinary/Message&7 (0.14s)
+    --- PASS: TestServerLongRandomBinary/Message&8 (0.14s)
+    --- PASS: TestServerLongRandomBinary/Message&9 (0.14s)
+    --- PASS: TestServerLongRandomBinary/Message&10 (0.14s)
+PASS
+ok  	COS316_assignment1/tests	(cached)
